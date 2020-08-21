@@ -38,3 +38,5 @@ console.log(numbers);
 
 // numbers.push('Seven') //push appends to the end of the array
 // console.log(numbers);
+
+
