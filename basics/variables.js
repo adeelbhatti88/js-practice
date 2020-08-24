@@ -13,4 +13,3 @@ let fullName = firstName + ' ' + lastName
 
 console.log(fullName)
 
-//https://www.youtube.com/watch?v=bybyH7fdtKE

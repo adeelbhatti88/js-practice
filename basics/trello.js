@@ -10,4 +10,3 @@ days.forEach(function (day, index) {
     
 })
 
-//https://www.youtube.com/watch?v=upP06o5ZPls&list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP&index=18
