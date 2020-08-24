@@ -9,3 +9,5 @@ days.forEach(function (day, index) {
     console.log(`starts with ${index + 1}  -- ${day}`);
     
 })
+
+//https://www.youtube.com/watch?v=upP06o5ZPls&list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP&index=18
