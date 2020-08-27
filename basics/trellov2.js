@@ -31,3 +31,4 @@ console.log(myTodos);
 meetDone(myTodos, 5)
 console.log(myTodos);
 console.log(getSummaryOfDay(myTodos));
+
